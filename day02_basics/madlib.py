@@ -1,0 +1,11 @@
+adjective1 = input("first adjective: ")
+adjective2 = input("second adjective: ")
+adjective3 = input("third adjective: ")
+adjective4 = input("fourth adjective: ")
+adjective5 = input("fifth adjective: ")
+
+print(f"back in the day i was a guy full of {adjective1}")
+print(f"but life had another saying and shocked me by how was it was {adjective2}")
+print(f"then i got my shit together cause i was in a {adjective3} state")
+print(f"and after it i was in a state of {adjective4}")
+print(f"but when i got out of it i felt {adjective5}")
